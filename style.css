@@ -25,10 +25,7 @@ p {
   
 
 
-.profile-picture {
-    float: left; /* Move the profile picture to the left side */
-    margin-right: 20px; /* Add some spacing between the picture and the content */
-  }
+
   
   .profile-picture img {
     border-radius: 50%;
